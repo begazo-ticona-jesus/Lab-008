@@ -30,7 +30,9 @@ public class Activity_PostulanteInfo extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_postulante_info);
+
         String dni,nombre,apellidop,apellidom,fecha,colegio,carrera;
+
         Helper helper = new Helper(getApplicationContext());
         String data = helper.readPostulante();
         data = data.replaceAll("(\n|\r)", "");
