@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Appv2</string>
+    <string-array name="carreras_">
+        <item>Administracion de Empresas</item>
+        <item>Ingeniería de Sistemas</item>
+        <item>Ciencias Historicas</item>
+        <item>Medicina Humana</item>
+        <item>Derecho</item>
+        <item>Ingeniería Industrial</item>
+        <item>Ingeniería Mecanica</item>
+        <item>Ingeniería Electronica</item>
+        <item>Contabilidad</item>
+        <item>Biología</item>
+        <item>Fisica</item>
+        <item>Quimica</item>
+        <item>Educacion</item>
+        <item>Psicología</item>
+        <item>Hoteleria y Turismo</item>
+        <item>Ingeniería Ambiental</item>
+    </string-array>
+</resources>
